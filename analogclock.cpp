@@ -3,9 +3,7 @@ using namespace std;
 
 int main(){
 	int  t,hr,min;
-	float deg,minHamd=1.5;
-	int hrHand=30;
-	
+	float deg,minHand=1.5;
 	cout<<"enter test cases"<<endl;
 	cin>>t;
 	
